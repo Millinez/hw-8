@@ -1,0 +1,91 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+.container {
+  min-width: 1170px;
+  min-height: 100%;
+}
+
+.col__row {
+  margin-left: 70px;
+  margin-top: 70px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.row__title {
+  font-weight: 600;
+  font-size: 1,125rem;
+  margin-bottom: 32px;
+  color: #424242;
+}
+
+.input-info {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 0,875rem;
+}
+
+.userName {
+  width: 220px;
+  height: 50px;
+  border:1px solid #BDBDBD;
+  border-radius: 20px;
+  padding-left: 10px;
+  color: #BDBDBD;
+  margin-right: 16px;
+}
+
+.userPhone {
+  width: 220px;
+  height: 50px;
+  border:1px solid #BDBDBD;
+  border-radius: 20px;
+  padding-left: 10px;
+  color: #BDBDBD;
+  margin-top: 24px;
+}
+
+.subtitle {
+  font-weight: 400;
+  font-size: 0,75rem;
+  color: #424242;
+}
+
+.userMail {
+  width: 456px;
+  height: 50px;
+  border:1px solid #BDBDBD;
+  border-radius: 20px;
+  padding-left: 12px;
+  color: #BDBDBD;
+}
+
+.labelCheck {
+  margin-left: 15px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  color: #424242;
+}
+
+.customCheck {
+  width: 30px;
+  height: 30px;
+}
+
+.labelRadio {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+.customRadio {
+  width: 31px;
+  height: 31px;
+}
